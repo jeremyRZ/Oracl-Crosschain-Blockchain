@@ -1,6 +1,6 @@
 # Oracl-Crosschain-Blockchain
 
-## Introductin
+## Introduction
 Blockchain has rapidly aroused the interests across the global construction industry, as it can enable a collaborative and trusting environment throughout the project lifecycle. However, such promises cannot be achieved spontaneously without blockchain “oracles” used to bridge the on-chain and off-chain worlds.
 
 ## Crosschain Demo
